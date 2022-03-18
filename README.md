@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shashikant Patil</h1>
+
+
 <h3 align="center">A Very passionate Full Stack Web Developer from Karnataka Specialized in MERN Stack, Keen interest to build responsive websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi530&label=Profile%20views&color=0e75b6&style=flat" alt="shashi530" /> </p>
 
 - 🔭 I worked on [Pantaloons-Clone](https://niks14041.github.io/Pantloons-clone/homepage.html)
+
 
 - 👯 I Recently collaborate on [Sephora-Clone](https://clever-banach-bb22fa.netlify.app/)
 
