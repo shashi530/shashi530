@@ -4,10 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi530&label=Profile%20views&color=0e75b6&style=flat" alt="shashi530" /> </p>
 
 - 🔭 I worked on [Pantaloons-Clone](https://niks14041.github.io/Pantloons-clone/homepage.html)
-- <br>
 
 - 👯 I Recently collaborate on [Sephora-Clone](https://clever-banach-bb22fa.netlify.app/)
-- <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
