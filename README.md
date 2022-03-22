@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashikant Patil</h1>
-
-
 <h3 align="center">A Very passionate Full Stack Web Developer from Karnataka Specialized in MERN Stack, Keen interest to build responsive websites</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi530&label=Profile%20views&color=0e75b6&style=flat" alt="shashi530" /> </p>
 
-- 🔭 I worked on [Pantaloons-Clone](https://niks14041.github.io/Pantloons-clone/homepage.html)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashi530" alt="shashi530" /></a> </p>
 
+- 🔭 I worked on [Pantaloons-Clone](https://niks14041.github.io/Pantloons-clone/homepage.html)
 
 - 👯 I Recently collaborate on [Sephora-Clone](https://clever-banach-bb22fa.netlify.app/)
 
@@ -23,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi530&show_icons=true&locale=en&layout=compact" alt="shashi530" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi530&show_icons=true&locale=en" alt="shashi530" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi530&" alt="shashi530" /></p>
